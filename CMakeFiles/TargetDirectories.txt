@@ -1,0 +1,3 @@
+/home/dell/Desktop/test/CMakeFiles/rebuild_cache.dir
+/home/dell/Desktop/test/CMakeFiles/task.dir
+/home/dell/Desktop/test/CMakeFiles/edit_cache.dir
